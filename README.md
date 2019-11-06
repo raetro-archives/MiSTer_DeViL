@@ -21,7 +21,7 @@ The application is a self contained, no package or library need to be installed.
 - Download and extract the contents of `Arm-DevilutionX_[VERSION].zip` [release](https://github.com/MiSTerKuN-io/MiSTer_DeViL/tree/master/releases) into the root of your SD Card.
 - Optionally you can install from the terminal by running: 
 ```sh
-wget -qO- https://github.com/MiSTerKuN-io/MiSTer_DeViL/blob/master/releases/Arm-DevilutionX_0.5.0.zip | bsdtar -xvf- -C /media/fat/
+wget -qO- https://github.com/misterkun-io/MiSTer_DeViL/raw/master/releases/Arm-DevilutionX_0.5.0.zip | bsdtar -xvf- -C /media/fat/
 ```
 - Copy `DIABDAT.MPQ` from the original Diablo game disc or the [GOG version](https://www.gog.com/game/diablo) to the `Diablo` folder on your SD Card.
 
